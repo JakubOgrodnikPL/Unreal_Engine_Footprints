@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jakub/Documents/Unreal Projects/Footprints/Content/right_footprint.uasset",
+				"C:/Users/jakub/Documents/Unreal Projects/Footprints/Content/left_footprint.uasset",
+				"C:/Users/jakub/Documents/Unreal Projects/Footprints/Content/left_footprint_Mat.uasset",
+				"C:/Users/jakub/Documents/Unreal Projects/Footprints/Content/right_footprint_Mat.uasset",
+				"C:/Users/jakub/Documents/Unreal Projects/Footprints/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/jakub/Documents/Unreal Projects/Footprints/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset",
+				"C:/Users/jakub/Documents/Unreal Projects/Footprints/Content/Characters/Mannequins/Animations/ABP_Quinn.uasset",
+				"C:/Users/jakub/Documents/Unreal Projects/Footprints/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset"
+			]
+		}
+	]
+}
